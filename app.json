@@ -1,0 +1,12 @@
+{
+  "name": "letters",
+  "displayName": "letters",
+  "expo": {
+    "name": "letters",
+    "slug": "letters",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
